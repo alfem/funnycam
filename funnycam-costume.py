@@ -1,3 +1,12 @@
+#!/usr/bin/python
+
+# Funnycam 1.0
+# Mezcla una webcam con un decorado para hacer capturas graciosas
+# Copyright Alfonso E.M. 2009
+# Este programa se distribuye bajo los términos de la licencia GPL (General Public License) versión 2.0
+
+
+
 import pygame
 import Image
 from pygame.locals import *
