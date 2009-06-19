@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+# -*- coding: utf-8 -*-
 # Funnycam 1.0
 # Mezcla una webcam con un decorado para hacer capturas graciosas
 # Copyright Alfonso E.M. 2009
